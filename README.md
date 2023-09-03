@@ -1,7 +1,7 @@
 Github project for LiveRaizo : [https://sourceforge.net/projects/live-raizo/](https://sourceforge.net/projects/live-raizo/)
 
 The last versions of LiveRaizo :
-* Last 64 bits Release : v14.23.06.28i
+* Last 64 bits Release : v14.23.09.03i
 * Last 32 bits Release : v6.15.08.30p
 
 You can open issues on :
